@@ -1,0 +1,15 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Just sample paG",
+  "main": "index.js",
+  "scripts": {
+    "test": "testg"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "xml-parser": "^1.2.1"
+  }
+}
